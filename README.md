@@ -16,3 +16,10 @@ This system supports three key perception tasks critical for safe and adaptive h
    Detects external mechanical overload or anomalous strain patterns to prevent unsafe torque application.
 
 Each task is implemented as an independent neural module and evaluated under task-specific experimental conditions across lab, outdoor, and risk-triggered scenarios.
+
+
+## 📁 Dataset Access
+
+Due to GitHub’s file size limitations, all datasets are hosted externally on Google Drive:
+
+https://drive.google.com/drive/folders/1FcqK_iQFRRlEzLQw-RtCexGELqiE9GPR?usp=sharing
