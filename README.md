@@ -23,3 +23,5 @@ Each task is implemented as an independent neural module and evaluated under tas
 Due to GitHub’s file size limitations, all datasets are hosted externally on Google Drive:
 
 https://drive.google.com/drive/folders/1FcqK_iQFRRlEzLQw-RtCexGELqiE9GPR?usp=sharing
+
+## For more details in the experiments, please drop a email to our corresponding authors.
