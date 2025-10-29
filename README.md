@@ -26,3 +26,9 @@ https://drive.google.com/drive/folders/1FcqK_iQFRRlEzLQw-RtCexGELqiE9GPR?usp=sha
 
 
 For more details in the experiments, please drop a email to our corresponding authors.
+
+## 📁 Exoskeleton Control
+
+For the code to control the exoskeleton, please refer to (the control cycle is based on the gait cycle decoded by FSR data):
+
+https://drive.google.com/drive/folders/1VYEdGYdG8HyOaK8iNNlknuvoAAej4QA2?usp=share_link
